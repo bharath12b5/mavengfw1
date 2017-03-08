@@ -27,6 +27,12 @@
         <name>TERASOLUNA Framework Team</name>
         <url>http://terasoluna.org</url>
     </organization>
+	<scm>
+		<url>https://github.com/bharath12b5/mavengfw1.git</url>
+		<connection>scm:https://github.com/bharath12b5/mavengfw1.git</connection>
+		<developerConnection>scm:git:https://github.com/bharath12b5/mavengfw1.git</developerConnection>
+	  <tag>HEAD</tag>
+  </scm>
     <repositories>
         <repository>
             <id>sonatype-nexus-snapshots</id>
